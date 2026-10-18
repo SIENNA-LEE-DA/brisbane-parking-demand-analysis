@@ -1,0 +1,616 @@
+MOBILE_ZONE,Meter_Count,Parking_System_Type,Street_Name,Suburb_All,Maximum_Stay_Hours,Restriction_Type,Tow_Away_Flag,Operational_Day,Operational_Time_Weekdays,Operational_Time_Saturday,Operational_Time_Sunday,Tariff_Zone,Free_Parking_Minutes,Weekday_Rate,AfterHours_Weekend_Rates,Total_Vehicle_Bays,Total_Motorcycle_Bays,Motorcycle_Rate,Longitude,Latitude,Maximum_Cap_Charge,Primary_Suburb
+4000103,1,Ticketless Meter,Creek St,Brisbane City,3,No Stopping,No,Everyday,"7AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,4,0,,153.029667,-27.468184,,Brisbane City
+4000104,1,Ticketless Meter,Market St,Brisbane City,3,Taxi Zone,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,5,0,,153.029743,-27.469636,,Brisbane City
+4000105,2,Ticketless Meter,Charlotte St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,15,0,,153.029092,-27.469241,,Brisbane City
+4000107,1,App Only,Edward St,Brisbane City,3,Clearway / Loading Zone,No,Everyday,"10AM-2PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,9,0,,153.02575,-27.46707,,Brisbane City
+4000108,2,Ticketless Meter,Margaret St,Brisbane City,3,No Stopping,No,Everyday,"9AM-3PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,16,0,,153.0271795,-27.4735805,,Brisbane City
+4000110,1,Ticketless Meter,Charlotte St,Brisbane City,12,Motorcycle Only,No,Weekdays,7AM-7PM,,,Zone 1,0,2.2,,0,38,2.2,153.0264,-27.471355,11.5,Brisbane City
+4000111,2,Hybrid | Ticketless Meter,Charlotte St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,20,0,,153.0264985,-27.4712785,,Brisbane City
+4000112,2,App Only | Ticketless Meter,George St,Brisbane City,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,11,0,,153.025777,-27.4731365,,Brisbane City
+4000113,1,Ticketless Meter,Mary St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,5,0,,153.026606,-27.472513,,Brisbane City
+4000114,2,Ticketless Meter,Mary St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,10,0,,153.02838400000002,-27.4712185,,Brisbane City
+4000116,1,Ticketless Meter,Margaret St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,11,0,,153.029151,-27.47205,,Brisbane City
+4000117,1,Ticketless Meter,Herschel St,Brisbane City,3,Clearway,Yes,Everyday,"9AM-7PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,6,0,,153.019306,-27.467551,,Brisbane City
+4000118,1,App Only,George St,Brisbane City,3,Bus Zone,No,Everyday,"9AM-3PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,4,0,,153.02631,-27.473892,,Brisbane City
+4000122,2,Ticketless Meter,Alice St,Brisbane City,3,Bus Zone,No,Everyday,"7AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,21,0,,153.029768,-27.47289,,Brisbane City
+4000123,2,Ticketless Meter,Alice St,Brisbane City,3,Clearway,Yes,Everyday,"7AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,18,0,,153.02982,-27.472662,,Brisbane City
+4000124,2,Ticketless Meter,Alice St,Brisbane City,3,Clearway,Yes,Everyday,"7AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,16,0,,153.028037,-27.47405,,Brisbane City
+4000126,1,Ticketless Meter,Little Stanley St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,4,0,,153.021512,-27.477763,,South Brisbane
+4000127,2,Ticketless Meter,Little Stanley St,South Brisbane,1,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,10,0,,153.0217725,-27.4781685,,South Brisbane
+4000128,1,Ticketless Meter,Little Stanley St,South Brisbane,1,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,5,0,,153.022685,-27.479505,,South Brisbane
+4000129,2,Ticketless Meter,Little Stanley St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,13,0,,153.0230375,-27.4799955,,South Brisbane
+4000130,2,Ticketless Meter,Grey St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,10,0,,153.021332,-27.478091499999998,,South Brisbane
+4000131,2,Ticketless Meter,Grey St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,9,0,,153.0224605,-27.47977,,South Brisbane
+4000132,2,Ticketless Meter,Grey St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,22,0,,153.02351099999998,-27.481474,,South Brisbane
+4000133,1,Ticketless Meter,Grey St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,7,0,,153.022671,-27.480372,,South Brisbane
+4000134,1,Ticketless Meter,Grey St,South Brisbane,2,Loading Zone,No,Weekends,,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,5,0,,153.022117,-27.479577,,South Brisbane
+4000135,1,Ticketless Meter,Sidon St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,9,0,,153.02484,-27.482191,,South Brisbane
+4000139,1,Ticketless Meter,Wickham Tce,Brisbane City,2,Clearway,Yes,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,4,0,,153.020037,-27.461757,,Brisbane City
+4000140,2,App Only,Ann St,Brisbane City,3,Clearway,Yes,Weekdays,"11AM-2PM, 7PM-10PM",,,Zone 1,0,6.35,,22,0,,153.02901500000002,-27.464055,,Brisbane City
+4000142,5,Ticketless Meter,Albert St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,43,0,,153.02138680000002,-27.465625799999998,,Brisbane City
+4000143,2,Ticketless Meter,Wickham Tce,Brisbane City,4,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,4.25,2.3,28,0,,153.0206505,-27.463378,,Brisbane City
+4000144,4,Ticketless Meter,Wickham Tce,Spring Hill,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,29,0,,153.02208275,-27.46519125,,Spring Hill
+4000145,1,Ticketless Meter,Turbot St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,4,0,,153.020634,-27.469336,,Brisbane City
+4000146,1,App Only,Turbot St,Brisbane City,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,10,0,,153.023803,-27.466674,,Brisbane City
+4000147,3,Ticketless Meter,Wickham Tce,Spring Hill,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,12,0,,153.025524,-27.464853666666666,,Spring Hill
+4000148,1,Ticketless Meter,Turbot St,Brisbane City,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,11,12,2.7,153.025545,-27.465551,,Brisbane City
+4000149,2,Ticketless Meter,Turbot St,Brisbane City,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,21,0,,153.02674000000002,-27.4649255,,Brisbane City
+4000150,3,Ticketless Meter,Turbot St,Spring Hill,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,28,0,,153.02880166666668,-27.463018,,Spring Hill
+4000151,1,Ticketless Meter,Raff St,Spring Hill,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,4,0,,153.029171,-27.462323,,Spring Hill
+4000152,2,Ticketless Meter,Ann St,Brisbane City,3,Clearway,Yes,Everyday,"11AM-2PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,22,0,,153.0300355,-27.4631615,,Brisbane City
+4000153,2,App Only | Ticketless Meter,Boundary St | Dodge Ln,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,8,0,,153.0323325,-27.461721,,Fortitude Valley
+4000154,1,App Only,Adelaide St,Brisbane City,3,No Stopping / Bus Zone / Loading Zone,No,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,5,0,,153.03075,-27.46411,,Brisbane City
+4000155,1,Ticketless Meter,Macrossan St,Brisbane City,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,6,0,,153.032261,-27.462828,,Brisbane City
+4000156,2,Ticketless Meter,Howard St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,11,0,,153.032109,-27.463532999999998,,Brisbane City
+4000157,1,Ticketless Meter,Queen St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,14,0,,153.031494,-27.464267,,Brisbane City
+4000158,1,Ticketless Meter,Makerston St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,7,0,,153.017941,-27.467262,,Brisbane City
+4000159,2,Ticketless Meter,May St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,14,0,,153.0166595,-27.4667275,,Brisbane City
+4000160,1,Ticketless Meter,North Quay,Brisbane City,3,Bus Zone,No,Everyday,"7AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,9,0,,153.016684,-27.467232,,Brisbane City
+4000161,1,Ticketless Meter,Eagle Tce,Brisbane City,12,Temporary No Stopping,No,Weekdays,7AM-7PM,,,Zone 1,0,4.25,,11,0,,153.014559,-27.46695,17.5,Brisbane City
+4000162,1,Ticketless Meter,Eagle Tce,Brisbane City,3,,No,Weekdays,7AM-7PM,,,Zone 1,0,6.35,,7,0,,153.014356,-27.467211,,Brisbane City
+4000167,1,Ticketless Meter,College Close Car Park,Roma St Parkland,"Weekdays 4
+Weekends 12",,No,Everyday,7AM-7PM,7AM-7PM,7AM-7PM,Zone 1,0,4.25,2.3,27,0,,153.016312,-27.461672,Weekdays 17.50 / Weekends 13.50,Roma St Parkland
+4000169,4,Ticketless Meter,Parkland Blvd,Roma St Parkland,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,30,10,2.7,153.01737475,-27.46319275,,Roma St Parkland
+4000198,1,App Only,Dixon St,Auchenflower,2,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,3,0,,152.99516,-27.477385,,Auchenflower
+4000201,1,App Only,Dixon St,Auchenflower,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,5,0,,152.995605,-27.477854,,Auchenflower
+4000202,2,App Only,Dixon St,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,34,0,,152.995205,-27.477244,16,Auchenflower
+4000203,1,App Only,Dixon St,Auchenflower,2,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,23,0,,152.994406,-27.4766,,Auchenflower
+4000204,2,App Only | Ticketless Meter,Mcilwraith St,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,21,0,,152.995933,-27.476692999999997,16,Auchenflower
+4000205,1,Ticketless Meter,Mcilwraith St,Auchenflower,2,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,9,0,,152.995423,-27.476242,,Auchenflower
+4000206,1,Ticketless Meter,Harriett St,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,10,0,,152.995294,-27.475859,16,Auchenflower
+4000207,1,Ticketless Meter,Burt St,Auchenflower,2,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,13,0,,152.994541,-27.475312,,Auchenflower
+4000208,1,Ticketless Meter,Burt St,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,9,0,,152.994962,-27.474991,16,Auchenflower
+4000209,1,Ticketless Meter,Ridley St,Auchenflower,4,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,8,0,,152.995554,-27.474999,,Auchenflower
+4000210,1,Ticketless Meter,Ridley St,Auchenflower,2,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,7,0,,152.995998,-27.475256,,Auchenflower
+4000211,1,Ticketless Meter,Ridley St,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,9,0,,152.996272,-27.475762,16,Auchenflower
+4000212,1,Ticketless Meter,Grimes St,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,12,0,,152.996777,-27.4749,16,Auchenflower
+4000213,1,App Only,Grimes St,Auchenflower,2,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,12,0,,152.996898,-27.474764,,Auchenflower
+4000214,2,Hybrid,Chasely St,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,58,0,,152.998241,-27.4772655,,Auchenflower
+4000215,7,App Only | Hybrid | Ticketless Meter,Dunmore Tce,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,80,0,,153.00084142857142,-27.475941857142857,,Auchenflower
+4000216,1,App Only,Lang Pde,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,5,0,,153.002383,-27.47489,,Auchenflower
+4000217,3,App Only | Hybrid | Ticketless Meter,Lima St,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,50,0,,152.998761,-27.476277666666665,,Auchenflower
+4000218,3,App Only | Hybrid | Ticketless Meter,Fortitude St,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,37,0,,152.999629,-27.475838999999997,,Auchenflower
+4000219,2,App Only,Kingsford St,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,23,0,,153.0001945,-27.475011000000002,,Auchenflower
+4000220,3,App Only | Ticketless Meter,Lang Pde,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,20,0,,152.99921733333335,-27.475037333333333,,Auchenflower
+4000221,1,App Only,Lang Pde,Auchenflower,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,9,0,,152.997718,-27.47564,,Auchenflower
+4000222,2,App Only,Lang Pde,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,35,0,,152.999862,-27.474565,16,Auchenflower
+4000223,3,App Only,Camford St | Eagle Tce,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,46,0,,153.000193,-27.471961333333336,16,Auchenflower
+4000224,1,App Only,Patrick Lane,Auchenflower,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,8,0,,152.996475,-27.479299,,Auchenflower
+4000230,2,App Only,Roy St,Auchenflower | Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,21,0,,153.00046300000002,-27.473712,16,Auchenflower
+4000231,1,App Only,Lang Pde,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,13,0,,153.001677,-27.474082,16,Milton
+4000232,1,App Only,Lang Pde,Milton,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,11,0,,153.001894,-27.474247,,Milton
+4000233,2,App Only,Kilroe St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,16,0,,153.001022,-27.473245499999997,16,Milton
+4000234,2,App Only,Camford St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,15,0,,153.00117,-27.472501,16,Milton
+4000235,1,App Only,Douglas St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,12,0,,153.002817,-27.471906,16,Milton
+4000236,1,App Only,Douglas St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 2,15,4.7,,24,0,,153.003587,-27.471661,,Milton
+4000237,1,Ticketless Meter,Graham St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,18,0,,153.004247,-27.473028,16,Milton
+4000238,1,Ticketless Meter,Sheehan St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,10,0,,153.003212,-27.470333,16,Milton
+4000239,2,App Only | Hybrid,Railway Tce,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,28,0,,153.006503,-27.469146000000002,,Milton
+4000240,1,Hybrid,Manning St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,52,0,,153.005862,-27.471039,,Milton
+4000241,4,App Only | Hybrid,Mcdougall St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,69,0,,153.0066725,-27.4706755,,Milton
+4000242,1,App Only,Walsh St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,28,0,,153.006367,-27.469638,,Milton
+4000243,2,App Only | Ticketless Meter,Paten St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,16,0,,153.006685,-27.467548999999998,16,Milton
+4000244,1,Ticketless Meter,Heussler Tce,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,8,0,,153.006006,-27.465046,16,Milton
+4000245,1,Ticketless Meter,Mayneview St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,6,0,,153.006641,-27.465562,16,Milton
+4000246,1,Ticketless Meter,Parkview St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,7,0,,153.007508,-27.465195,16,Milton
+4000247,1,App Only,Castlemaine St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,8,0,,153.008378,-27.466215,16,Milton
+4000248,2,App Only,Black St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,14,0,,153.007408,-27.4668435,16,Milton
+4000250,3,Ticketless Meter,Finchley St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,21,0,,153.00607,-27.46637966666667,16,Milton
+4000251,1,App Only,Granzella St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,9,0,,153.008092,-27.467173,16,Milton
+4000252,1,Ticketless Meter,Costin St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.031734,-27.452059,17.5,Bowen Hills
+4000253,1,Ticketless Meter,Boundary St,Spring Hill,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,11,0,,153.019977,-27.46011,,Spring Hill
+4000255,1,Ticketless Meter,Boundary St,Spring Hill,3,No Stopping,No,Weekdays,7AM-4PM,,,Zone 1,15,6.35,,5,0,,153.021051,-27.460397,,Spring Hill
+4000257,2,Ticketless Meter,Boundary St,Spring Hill,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,6,0,,153.02075,-27.4602255,,Spring Hill
+4000260,1,Ticketless Meter,Boundary St,Spring Hill,1,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,12,0,,153.022227,-27.460413,,Spring Hill
+4000262,2,Ticketless Meter,Bradley St | Gregory Tce,Spring Hill,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,18,0,,153.0207755,-27.458967,,Spring Hill
+4000263,3,App Only | Ticketless Meter,Gregory Tce,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,37,0,,153.02350466666667,-27.457722,17.5,Spring Hill
+4000264,1,Ticketless Meter,Gregory Tce,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,11,0,,153.022033,-27.458655,,Spring Hill
+4000265,2,App Only,Torrington St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,10,0,,153.0215425,-27.4595135,,Spring Hill
+4000272,3,Ticketless Meter,Allenby St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,21,0,,153.02247366666666,-27.461333999999997,17.5,Spring Hill
+4000273,2,Ticketless Meter,Leichhardt St,Spring Hill,4,Clearway,Yes,Weekdays,9AM-5:30PM,,,Zone 1,15,4.25,,12,0,,153.022493,-27.461999,,Spring Hill
+4000274,1,App Only,Lilley St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.021565,-27.463782,17.5,Spring Hill
+4000275,3,App Only | Ticketless Meter,Sedgebrook St | Terrace St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,16,0,,153.02306066666665,-27.463414333333333,17.5,Spring Hill
+4000279,1,Ticketless Meter,Twine St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.021279,-27.463147,17.5,Spring Hill
+4000280,2,Ticketless Meter,Fortescue St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.0234075,-27.461453,17.5,Spring Hill
+4000281,1,Ticketless Meter,Wedd St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.023068,-27.459689,17.5,Spring Hill
+4000282,1,App Only,Wedd St,Spring Hill,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,9,0,,153.023239,-27.459609,,Spring Hill
+4000283,1,Ticketless Meter,Fortescue St,Spring Hill,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,5,0,,153.023628,-27.460454,,Spring Hill
+4000284,2,Ticketless Meter,Berry St | Flynn St,Spring Hill,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,7,0,,153.023749,-27.463335999999998,,Spring Hill
+4000286,3,Ticketless Meter,Upper Edward St,Spring Hill,2,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,7,0,,153.02469666666667,-27.463867000000004,,Spring Hill
+4000287,2,Ticketless Meter,Little Edward St,Spring Hill,2,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,12,0,,153.02442000000002,-27.4616495,,Spring Hill
+4000288,1,Ticketless Meter,Little Edward St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.024212,-27.461861,,Spring Hill
+4000289,1,Ticketless Meter,Water St,Spring Hill,4,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,8,0,,153.02467,-27.460331,,Spring Hill
+4000290,3,Ticketless Meter,Water St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,30,0,,153.02537833333335,-27.459366,17.5,Spring Hill
+4000291,1,Ticketless Meter,Dickens St,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,6,0,,153.024362,-27.459897,,Spring Hill
+4000292,1,Ticketless Meter,Water St,Spring Hill,4,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,4,0,,153.024827,-27.459797,,Spring Hill
+4000293,1,App Only,Mulgrave St,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,4,0,,153.024372,-27.459241,,Spring Hill
+4000294,2,Ticketless Meter,Fortescue St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.023531,-27.458945999999997,17.5,Spring Hill
+4000295,1,App Only,Mulgrave St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,3,0,,153.023959,-27.458909,17.5,Spring Hill
+4000296,3,App Only,Union St | York Pde,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,17,0,,153.02461300000002,-27.45844166666667,,Spring Hill
+4000297,1,App Only,York Pde,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,11,0,,153.024308,-27.458506,17.5,Spring Hill
+4000298,1,App Only,Victoria St,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,7,0,,153.025783,-27.458284,,Spring Hill
+4000299,2,App Only | Ticketless Meter,Rogers St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,32,0,,153.0266115,-27.458364,17.5,Spring Hill
+4000300,2,App Only,Royal Ave | Water St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.0271035,-27.4574585,17.5,Spring Hill
+4000301,1,App Only,Rogers St,Spring Hill,3,Loading Zone,No,Weekdays,9AM-2PM,,,Zone 1,15,6.35,,18,0,,153.025505,-27.456801,,Spring Hill
+4000302,1,Ticketless Meter,Leichhardt St,Spring Hill,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.025341,-27.462724,,Spring Hill
+4000303,1,Ticketless Meter,Astor Tce,Spring Hill,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,2,0,,153.026239,-27.463346,,Spring Hill
+4000304,1,Ticketless Meter,Astor Tce,Spring Hill,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.027423,-27.462999,,Spring Hill
+4000305,1,App Only,Wharf St,Spring Hill,3,No Stopping,No,Weekdays,7AM-4PM,,,Zone 1,15,6.35,,10,0,,153.0271,-27.462532,,Spring Hill
+4000306,1,Ticketless Meter,Wharf St,Spring Hill,2,Clearway,Yes,Weekdays,9AM-5:30PM,,,Zone 1,15,6.35,,7,0,,153.027251,-27.462491,,Spring Hill
+4000307,2,Ticketless Meter,Bowen St | Mein St,Spring Hill,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,10,0,,153.028122,-27.4618085,,Spring Hill
+4000308,3,Ticketless Meter,Boundary St,Spring Hill,4,No Stopping,No,Weekdays,8AM-4PM,,,Zone 1,15,4.25,,33,0,,153.02832666666666,-27.461442666666667,,Spring Hill
+4000309,1,App Only,Hartley St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.029532,-27.461234,17.5,Spring Hill
+4000311,2,Ticketless Meter,School St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,22,0,,153.030403,-27.460641000000003,17.5,Spring Hill
+4000312,3,App Only | Ticketless Meter,Thornbury St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,19,0,,153.02952566666667,-27.459734666666666,17.5,Spring Hill
+4000313,2,App Only | Ticketless Meter,Gloucester St | Phillips St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.02837,-27.460445,17.5,Spring Hill
+4000314,1,Ticketless Meter,St Pauls Tce,Spring Hill,4,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,5,0,,153.028507,-27.459289,,Spring Hill
+4000316,1,Ticketless Meter,St Pauls Tce,Spring Hill,3,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,4,0,,153.027436,-27.460389,,Spring Hill
+4000317,1,App Only,St Pauls Tce,Spring Hill,3,Clearway,Yes,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,14,0,,153.028041,-27.459561,,Spring Hill
+4000318,1,Ticketless Meter,Rogers St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.027518,-27.459911,17.5,Spring Hill
+4000319,1,Ticketless Meter,Rogers St,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,5,0,,153.027165,-27.45955,,Spring Hill
+4000320,1,App Only,Union St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.027022,-27.46014,,Spring Hill
+4000321,2,App Only,Isaac St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,14,0,,153.02611050000002,-27.460085499999998,,Spring Hill
+4000322,1,Ticketless Meter,Boundary St,Spring Hill,3,No Stopping,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,12,0,,153.025578,-27.461084,,Spring Hill
+4000323,1,App Only,Quarry St,Spring Hill,3,Loading Zone,No,Weekdays,"9AM-2PM, 4PM-7PM",,,Zone 1,15,6.35,,25,0,,153.027999,-27.458044,,Spring Hill
+4000324,1,App Only,Quarry St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,4,0,,153.028661,-27.458594,,Spring Hill
+4000325,1,App Only,Love St,Spring Hill,3,Free Parking for 30 minutes,No,Weekdays,10AM-3PM,,,Zone 1,15,6.35,,8,0,,153.029556,-27.457537,,Spring Hill
+4000326,2,Ticketless Meter,Wickham Tce,Spring Hill,2,Clearway,Yes,Weekdays,9AM-5:30PM,,,Zone 1,15,6.35,,6,0,,153.020467,-27.46164,,Spring Hill
+4000327,1,App Only,Bradley St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,8,0,,153.020647,-27.461467,,Spring Hill
+4000328,1,Ticketless Meter,North St,Spring Hill,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,4,0,,153.021345,-27.461493,,Spring Hill
+4000329,2,Hybrid | Ticketless Meter,Quarry St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,23,0,,153.028011,-27.457878,17.5,Spring Hill
+4000330,2,Hybrid | Ticketless Meter,Love St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,49,0,,153.02885750000002,-27.456902,17.5,Spring Hill
+4000331,1,App Only,Victoria St,Spring Hill,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.024814,-27.457524,,Spring Hill
+4000332,1,Ticketless Meter,Boundary St,Spring Hill,3,No Stopping,No,Weekdays,9AM-5:30PM,,,Zone 1,15,6.35,,11,0,,153.025406,-27.460905,,Spring Hill
+4000333,1,App Only,Sedgebrook St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.022931,-27.463996,17.5,Spring Hill
+4000334,1,Ticketless Meter,Boundary St,Spring Hill,3,No Stopping,No,Weekdays,7AM-4PM,,,Zone 1,15,6.35,,2,0,,153.022816,-27.460674,,Spring Hill
+4000335,1,App Only,Warry St,Fortitude Valley,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,5,0,,153.027535,-27.453823,,Fortitude Valley
+4000336,2,App Only | Ticketless Meter,Warry St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,26,0,,153.02835449999998,-27.4544005,17.5,Fortitude Valley
+4000337,1,App Only,Warry St,Fortitude Valley,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,5,0,,153.028634,-27.454581,,Fortitude Valley
+4000338,2,Ticketless Meter,Warry St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,20,0,,153.03001949999998,-27.455599499999998,17.5,Fortitude Valley
+4000339,1,App Only,Union St,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,7,0,,153.024122,-27.457897,,Spring Hill
+4000340,1,Ticketless Meter,Warry St,Fortitude Valley,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,4,0,,153.030928,-27.456305,,Fortitude Valley
+4000341,2,Ticketless Meter,Agnes St | Gotha St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,23,0,,153.0303385,-27.458299,17.5,Fortitude Valley
+4000342,1,Ticketless Meter,St Pauls Tce,Fortitude Valley,4,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,5,0,,153.03031,-27.457463,,Fortitude Valley
+4000344,1,Ticketless Meter,Warren St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.029575,-27.458937,17.5,Fortitude Valley
+4000345,2,Ticketless Meter,James St,Fortitude Valley,1,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,10,0,,153.039878,-27.456636000000003,,Fortitude Valley
+4000346,1,Ticketless Meter,James St,Fortitude Valley,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,9,0,,153.03986,-27.456776,,Fortitude Valley
+4000347,1,Ticketless Meter,James St,Fortitude Valley,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,4,0,,153.040691,-27.457442,,Fortitude Valley
+4000349,1,Ticketless Meter,James St,Fortitude Valley,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.041607,-27.457991,,Fortitude Valley
+4000350,1,Ticketless Meter,Malt St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.037634,-27.461303,17.5,Fortitude Valley
+4000351,1,Ticketless Meter,Alfred St,Fortitude Valley,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,2,0,,153.031738,-27.457272,,Fortitude Valley
+4000352,1,Ticketless Meter,Malt St,Fortitude Valley,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,6,0,,153.037424,-27.461324,,Fortitude Valley
+4000353,1,Ticketless Meter,Water St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.030743,-27.453945,17.5,Fortitude Valley
+4000354,2,Ticketless Meter,Baxter St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.03217,-27.454209,17.5,Fortitude Valley
+4000355,1,Ticketless Meter,Baxter St,Fortitude Valley,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,9,0,,153.032092,-27.454322,,Fortitude Valley
+4000356,2,Ticketless Meter,Alfred St,Fortitude Valley,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,19,0,,153.033371,-27.455707500000003,,Fortitude Valley
+4000357,1,Ticketless Meter,Alfred St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.033039,-27.455885,17.5,Fortitude Valley
+4000358,1,Ticketless Meter,Alfred St,Fortitude Valley,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,5,0,,153.033643,-27.455276,,Fortitude Valley
+4000359,2,Ticketless Meter,Robertson St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,16,0,,153.0384005,-27.458869,17.5,Fortitude Valley
+4000360,1,Ticketless Meter,Alden St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,7,0,,153.034475,-27.455913,,Fortitude Valley
+4000361,4,Ticketless Meter,Wickham St,Fortitude Valley,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,27,0,,153.03502125,-27.45609225,,Fortitude Valley
+4000362,3,Ticketless Meter,Wickham St,Fortitude Valley,3,Clearway,Yes,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,19,0,,153.03616966666667,-27.454988666666665,,Fortitude Valley
+4000363,1,Ticketless Meter,Wickham St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.037109,-27.454224,17.5,Fortitude Valley
+4000364,1,Ticketless Meter,Wickham St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.037667,-27.453742,17.5,Fortitude Valley
+4000365,2,Ticketless Meter,Wickham St,Fortitude Valley,4,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,19,0,,153.0383865,-27.4529705,,Fortitude Valley
+4000366,2,Ticketless Meter,Brookes St,Bowen Hills | Fortitude Valley,7,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,20,0,,153.036783,-27.4517195,17.5,Fortitude Valley
+4000367,1,Ticketless Meter,Church St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.037514,-27.454026,17.5,Fortitude Valley
+4000368,1,App Only,Robertson St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,8,0,,153.040043,-27.457229,,Fortitude Valley
+4000369,1,Ticketless Meter,East St,Fortitude Valley,4,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,4.25,2.3,16,0,,153.037164,-27.454971,,Fortitude Valley
+4000370,1,Ticketless Meter,Prospect St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,28,0,,153.037734,-27.451823,17.5,Fortitude Valley
+4000371,1,Ticketless Meter,Prospect St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,36,0,,153.038674,-27.450703,17.5,Fortitude Valley
+4000372,1,Ticketless Meter,Scanlan St,Fortitude Valley,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.037485,-27.451338,,Fortitude Valley
+4000373,1,Ticketless Meter,Scanlan St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.037934,-27.451033,17.5,Fortitude Valley
+4000374,1,Ticketless Meter,Knapp St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,18,0,,153.039494,-27.450122,,Fortitude Valley
+4000375,1,Ticketless Meter,Knapp St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.039921,-27.450759,17.5,Fortitude Valley
+4000376,1,App Only,Hynes St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.038934,-27.450987,,Fortitude Valley
+4000377,1,Ticketless Meter,Light St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.039403,-27.451677,17.5,Fortitude Valley
+4000378,3,Hybrid | Ticketless Meter,Wandoo St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,31,0,,153.03996066666664,-27.455382,,Fortitude Valley
+4000379,1,Ticketless Meter,Wandoo St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,10,0,,153.040357,-27.455792,,Fortitude Valley
+4000380,2,Ticketless Meter,Doggett St,Fortitude Valley,3,,No,Everyday | Weekdays,"7AM-10PM | 7AM-7PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,26,0,,153.04139650000002,-27.4561115,,Fortitude Valley
+4000381,2,Ticketless Meter,Doggett St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,18,0,,153.0408325,-27.456633,,Fortitude Valley
+4000382,1,Ticketless Meter,Robertson St,Fortitude Valley,4,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,4.25,2.3,5,0,,153.039596,-27.457672,,Fortitude Valley
+4000383,2,Ticketless Meter,Robertson St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,20,0,,153.03843999999998,-27.458993,17.5,Fortitude Valley
+4000384,1,App Only,Edmund St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,7,0,,153.042935,-27.44372,,Newstead
+4000385,6,Ticketless Meter,Mclachlan St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,41,0,,153.03685883333333,-27.4579585,,Fortitude Valley
+4000386,1,Hybrid,Ivory St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,9,0,,153.035922,-27.460005,,Fortitude Valley
+4000387,1,Ticketless Meter,Harrison Ln,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,13,0,,153.036228,-27.460575,,Fortitude Valley
+4000388,1,Ticketless Meter,Bowen Tce,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.036081,-27.461633,17.5,Fortitude Valley
+4000389,1,Ticketless Meter,Bowen Tce,Fortitude Valley,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,4,0,,153.036885,-27.461826,,Fortitude Valley
+4000390,2,Ticketless Meter,Warry St,Fortitude Valley,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,18,0,,153.030022,-27.4554855,,Fortitude Valley
+4000391,3,Ticketless Meter,Arthur St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,31,0,,153.03942800000002,-27.459472,17.5,Fortitude Valley
+4000392,4,Ticketless Meter,Arthur St | James St,Fortitude Valley,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,21,0,,153.04093225,-27.45769575,,Fortitude Valley
+4000393,1,Ticketless Meter,Amelia St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.031605,-27.454966,17.5,Fortitude Valley
+4000394,3,Ticketless Meter,Amelia St,Fortitude Valley,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,18,0,,153.03090033333334,-27.454629999999998,,Fortitude Valley
+4000396,1,Ticketless Meter,Arthur St,Fortitude Valley,1,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,7,0,,153.041415,-27.457317,,Fortitude Valley
+4000397,1,Ticketless Meter,Arthur St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.041905,-27.456824,17.5,Fortitude Valley
+4000398,1,Ticketless Meter,Bridge St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,9,0,,153.035686,-27.454536,,Fortitude Valley
+4000399,1,App Only,Ross St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.042897,-27.443001,,Newstead
+4000400,1,App Only,Victoria Park Rd,Kelvin Grove,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,35,0,,153.016501,-27.455824,16,Kelvin Grove
+4000401,2,Ticketless Meter,Victoria Park Rd,Kelvin Grove,4,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,22,0,,153.016026,-27.454088,,Kelvin Grove
+4000402,2,Ticketless Meter,Victoria Park Rd,Kelvin Grove,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,53,0,,153.0150085,-27.4519095,16,Kelvin Grove
+4000404,1,Ticketless Meter,Musk Ave,Kelvin Grove,4,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,19,0,,153.014888,-27.452215,,Kelvin Grove
+4000405,1,Ticketless Meter,Blamey St,Kelvin Grove,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,7,0,,153.013723,-27.453294,16,Kelvin Grove
+4000406,2,Ticketless Meter,Blamey St,Kelvin Grove,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,21,0,,153.0155445,-27.4531365,,Kelvin Grove
+4000408,1,Ticketless Meter,Ramsgate St,Kelvin Grove,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,7,0,,153.015196,-27.453956,,Kelvin Grove
+4000409,1,Ticketless Meter,Carraway St,Kelvin Grove,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,8,0,,153.015595,-27.454318,16,Kelvin Grove
+4000410,1,Ticketless Meter,Carraway St,Kelvin Grove,4,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,11,0,,153.014542,-27.454329,,Kelvin Grove
+4000411,1,App Only,Musk Ave,Kelvin Grove,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,13,0,,153.01378,-27.454604,,Kelvin Grove
+4000412,1,Ticketless Meter,Musk Ave,Kelvin Grove,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,3,0,,153.013855,-27.45505,16,Kelvin Grove
+4000413,1,Ticketless Meter,Lestrange Tce,Kelvin Grove,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,10,0,,153.012903,-27.448749,16,Kelvin Grove
+4000414,1,App Only,Lestrange Tce,Kelvin Grove,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,16,0,,153.014218,-27.448531,,Kelvin Grove
+4000415,3,Ticketless Meter,Herston Rd,Herston,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,27,0,,153.02111666666667,-27.448807,16,Herston
+4000416,4,Ticketless Meter,Herston Rd,Herston,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,46,0,,153.02363400000002,-27.4492915,,Herston
+4000417,4,App Only | Ticketless Meter,Gilchrist Ave,Herston,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,151,0,,153.02414275,-27.4516305,16,Herston
+4000418,1,Ticketless Meter,Gilchrist Ave,Herston,4,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,11,0,,153.025709,-27.450696,,Herston
+4000419,1,App Only,Petrie Tce,Petrie Terrace,3,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,42,0,,153.014601,-27.462385,,Petrie Terrace
+4000421,1,Ticketless Meter,Wickham St,Fortitude Valley,3,Clearway / Taxi Zone,Yes,Weekdays,"9AM-4PM, 7PM-10PM",,,Zone 1,15,6.35,,3,0,,153.035001,-27.456015,,Fortitude Valley
+4000423,1,App Only,Musk Ave,Kelvin Grove,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,11,0,,153.014252,-27.452857,,Kelvin Grove
+4000431,7,App Only | Ticketless Meter,Gregory Tce,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,40,0,,153.02664714285714,-27.45488985714286,17.5,Spring Hill
+4000432,4,App Only,Kennigo St,Spring Hill,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,33,0,,153.02931925,-27.45601625,,Spring Hill
+4000433,5,App Only,Kennigo St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,27,0,,153.0280182,-27.4549252,17.5,Spring Hill
+4000434,1,App Only,Kinross St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.027804,-27.456701,17.5,Spring Hill
+4000435,1,App Only,Water St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,7,0,,153.025802,-27.458783,,Spring Hill
+4000436,3,Ticketless Meter,Water St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,24,0,,153.028503,-27.455995,17.5,Spring Hill
+4000437,2,Ticketless Meter,Barry Pde,Fortitude Valley,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,24,0,,153.030885,-27.4603785,,Fortitude Valley
+4000438,1,Ticketless Meter,Gotha St,Fortitude Valley,3,No Stopping,No,Weekdays,9AM-7PM,,,Zone 1,15,6.35,,5,0,,153.031103,-27.45915,,Fortitude Valley
+4000440,1,Ticketless Meter,Little St,Fortitude Valley,1,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,7,0,,153.031882,-27.458732,,Fortitude Valley
+4000441,1,Ticketless Meter,Marshall St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,13,0,,153.034637,-27.459544,,Fortitude Valley
+4000442,1,Ticketless Meter,Downing St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,3,0,,153.02217,-27.462302,17.5,Spring Hill
+4000443,2,Ticketless Meter,Leichhardt St,Spring Hill,4,Clearway,Yes,Weekdays,8AM-4PM,,,Zone 1,15,4.25,,11,0,,153.02276799999999,-27.462203000000002,,Spring Hill
+4000444,1,Ticketless Meter,Water St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,19,0,,153.03071,-27.453842,,Fortitude Valley
+4000488,1,App Only,Montpelier Rd,Bowen Hills,3,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,8,0,,153.040226,-27.449176,,Bowen Hills
+4000489,1,App Only,Montpelier Rd,Bowen Hills,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.040129,-27.449301,,Bowen Hills
+4000490,3,Ticketless Meter,Brewers St | Machinery St | Symes St,Bowen Hills,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,28,0,,153.03346566666667,-27.452903333333335,,Bowen Hills
+4000491,1,Ticketless Meter,Allison St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.040992,-27.439241,17.5,Bowen Hills
+4000492,4,App Only | Ticketless Meter,Murray St | Thompson St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,37,0,,153.0405525,-27.4410265,17.5,Bowen Hills
+4000493,1,App Only,Edmondstone Rd,Bowen Hills,3,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,3,0,,153.039649,-27.442549,,Bowen Hills
+4000494,3,Ticketless Meter,Edmondstone Rd,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.04106633333333,-27.443106333333333,17.5,Bowen Hills
+4000495,1,Ticketless Meter,Folkestone St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.039514,-27.444228,17.5,Bowen Hills
+4000496,3,Ticketless Meter,Folkestone St | Jordan Tce,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,43,0,,153.04099433333332,-27.444943666666664,17.5,Bowen Hills
+4000497,1,Ticketless Meter,Jordan Tce,Bowen Hills,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,4,0,,153.041398,-27.445285,,Bowen Hills
+4000498,1,Ticketless Meter,Dunlop St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.041953,-27.446877,17.5,Bowen Hills
+4000499,2,Ticketless Meter,Montpelier Rd,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.03945199999998,-27.4488975,17.5,Bowen Hills
+4000500,1,Ticketless Meter,Costin St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.032211,-27.452425,17.5,Bowen Hills
+4000501,2,Ticketless Meter,Gregory Tce,Bowen Hills,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,19,0,,153.030537,-27.45179,,Bowen Hills
+4000502,4,Ticketless Meter,King St,Bowen Hills,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,20,0,,153.0333935,-27.45210575,,Bowen Hills
+4000503,4,Ticketless Meter,Gregory Tce,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,54,0,,153.033649,-27.45056175,17.5,Bowen Hills
+4000504,2,Ticketless Meter,Exhibition St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.034967,-27.450937,17.5,Bowen Hills
+4000505,2,Ticketless Meter,Mallon St,Bowen Hills,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.0359875,-27.4505805,,Bowen Hills
+4000506,4,Ticketless Meter,Hurworth St | Jeays St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,36,0,,153.03637575,-27.44977,17.5,Bowen Hills
+4000507,2,Ticketless Meter,Jeays St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,32,0,,153.0358715,-27.4487065,17.5,Bowen Hills
+4000508,1,App Only,Arthur St,Teneriffe,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,14,0,,153.044034,-27.454661,,Teneriffe
+4000509,1,Ticketless Meter,Oconnell Tce,Bowen Hills,7,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,5,0,,153.034244,-27.448513,17.5,Bowen Hills
+4000510,1,Ticketless Meter,Oconnell Tce,Bowen Hills,7,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,7,0,,153.034211,-27.448638,17.5,Bowen Hills
+4000511,1,Ticketless Meter,Tufton St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.034089,-27.448014,17.5,Bowen Hills
+4000512,3,Ticketless Meter,Oconnell Tce,Bowen Hills,4,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,30,0,,153.03126866666665,-27.44823066666667,,Bowen Hills
+4000513,2,Ticketless Meter,Campbell St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,18,0,,153.03187350000002,-27.44692,17.5,Bowen Hills
+4000514,3,Ticketless Meter,Hudd St | Mayne Rd,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,44,0,,153.036307,-27.446083666666667,17.5,Bowen Hills
+4000515,1,Ticketless Meter,Jamieson St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.037482,-27.446726,17.5,Bowen Hills
+4000516,1,Ticketless Meter,Hurworth St,Bowen Hills,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.036571,-27.447855,,Bowen Hills
+4000517,1,Ticketless Meter,Wickham Gr,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.041717,-27.443648,17.5,Bowen Hills
+4000518,1,Ticketless Meter,Cintra Rd,Bowen Hills,4,,No,Weekdays,9AM-4PM,,,Zone 1,15,4.25,,11,0,,153.038725,-27.447494,,Bowen Hills
+4000519,1,Ticketless Meter,Cowlishaw St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.038588,-27.447921,17.5,Bowen Hills
+4000520,2,Ticketless Meter,Wyandra St,Teneriffe,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,26,0,,153.04585600000001,-27.4523935,17.5,Teneriffe
+4000521,1,Ticketless Meter,Commercial Rd,Teneriffe,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.044511,-27.453795,,Teneriffe
+4000522,1,Ticketless Meter,Commercial Rd,Teneriffe,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,8,0,,153.045228,-27.45382,,Teneriffe
+4000523,2,Ticketless Meter,Arthur St,Teneriffe,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,15,0,,153.04466250000002,-27.454134,,Teneriffe
+4000524,2,Ticketless Meter,Arthur St,Teneriffe,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,31,0,,153.0436185,-27.4551855,17.5,Teneriffe
+4000525,1,Ticketless Meter,Chester St,Teneriffe,1,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,6,0,,153.042413,-27.455445,,Teneriffe
+4000526,1,Ticketless Meter,Chester St,Teneriffe,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.042156,-27.455436,,Teneriffe
+4000527,4,Ticketless Meter,Helen St,Teneriffe,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,39,0,,153.04654375,-27.453030499999997,17.5,Teneriffe
+4000528,1,Ticketless Meter,Commercial Rd,Teneriffe,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.046162,-27.454072,,Teneriffe
+4000529,1,Ticketless Meter,Commercial Rd,Teneriffe,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,11,0,,153.047562,-27.453333,17.5,Teneriffe
+4000530,2,App Only | Ticketless Meter,Commercial Rd,Teneriffe,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,4,0,,153.047417,-27.4536425,,Teneriffe
+4000531,2,Ticketless Meter,Dath St | Florence St,Teneriffe,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,20,0,,153.048148,-27.454327,,Teneriffe
+4000532,1,Ticketless Meter,Dath St,Teneriffe,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,17,0,,153.048392,-27.453883,16,Teneriffe
+4000533,3,Ticketless Meter,Vernon Tce,Teneriffe,4,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,22,0,,153.04883833333335,-27.453445666666667,,Teneriffe
+4000534,1,Ticketless Meter,Vernon Tce,Teneriffe,2,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,10,0,,153.049685,-27.455122,,Teneriffe
+4000535,1,App Only,Ethel St,Teneriffe,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,15,0,,153.048773,-27.454878,,Teneriffe
+4000536,1,Ticketless Meter,Florence St,Teneriffe,1,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,10,0,,153.049023,-27.455464,,Teneriffe
+4000537,1,Ticketless Meter,Florence St,Teneriffe,3,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,9,0,,153.048856,-27.455525,,Teneriffe
+4000538,1,Ticketless Meter,Doggett St,Teneriffe,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.043097,-27.45407,17.5,Teneriffe
+4000539,1,Ticketless Meter,Vernon Tce,Teneriffe,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,6,0,,153.049822,-27.455085,,Teneriffe
+4000541,2,Ticketless Meter,Halford St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,28,0,,153.045136,-27.443765,17.5,Newstead
+4000542,1,Ticketless Meter,Halford St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.044329,-27.443708,17.5,Newstead
+4000543,5,Ticketless Meter,Newstead Ave | Newstead Tce,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,37,0,,153.045432,-27.444892600000003,17.5,Newstead
+4000544,5,Ticketless Meter,Newstead Tce,Newstead,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,34,0,,153.0456706,-27.4453682,,Newstead
+4000545,3,App Only | Ticketless Meter,Austin St | Newstead Tce,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,24,0,,153.044365,-27.446192,17.5,Newstead
+4000546,1,Ticketless Meter,Maud St,Newstead,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,10,0,,153.044361,-27.44487,,Newstead
+4000547,1,App Only,Maud St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,11,0,,153.044472,-27.445013,17.5,Newstead
+4000548,1,Ticketless Meter,Maud St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.043494,-27.444748,17.5,Newstead
+4000549,1,Ticketless Meter,Austin St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.04346,-27.445849,,Newstead
+4000550,1,Ticketless Meter,Austin St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.04518,-27.446247,17.5,Newstead
+4000551,1,Ticketless Meter,Austin St,Newstead,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,8,0,,153.04532,-27.446123,,Newstead
+4000552,1,Ticketless Meter,Evelyn St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,19,0,,153.045211,-27.447208,17.5,Newstead
+4000553,2,Ticketless Meter,Evelyn St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,25,0,,153.04470700000002,-27.447205500000003,17.5,Newstead
+4000554,1,Ticketless Meter,Creswell St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.043055,-27.447576,,Newstead
+4000555,1,Ticketless Meter,Creswell St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,6,0,,153.043079,-27.448094,,Newstead
+4000556,1,Ticketless Meter,Creswell St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.042919,-27.447377,17.5,Newstead
+4000557,1,Ticketless Meter,Byres St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.043883,-27.447441,,Newstead
+4000558,1,Ticketless Meter,Byres St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.043763,-27.447419,17.5,Newstead
+4000559,1,App Only,Gordon St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,5,0,,153.044713,-27.447657,17.5,Newstead
+4000560,1,App Only,Waterloo St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.045317,-27.447967,17.5,Newstead
+4000561,1,Ticketless Meter,Wickham Gr,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,11,0,,153.042123,-27.443007,17.5,Newstead
+4000562,3,Ticketless Meter,Skyring Tce,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,23,0,,153.04579733333333,-27.449901666666666,17.5,Newstead
+4000563,3,Ticketless Meter,Longland St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,34,0,,153.04369599999998,-27.451209666666667,17.5,Newstead
+4000564,1,Ticketless Meter,Wyandra St,Newstead,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,3,0,,153.046795,-27.451235,,Newstead
+4000565,1,Ticketless Meter,Wyandra St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.044788,-27.453253,17.5,Newstead
+4000566,1,Ticketless Meter,Wyandra St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.045889,-27.452178,17.5,Newstead
+4000567,1,Ticketless Meter,Wyatt St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.04498,-27.452549,17.5,Newstead
+4000569,2,Ticketless Meter,Masters St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.04452300000003,-27.452692,,Newstead
+4000570,1,Ticketless Meter,Masters St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,3,0,,153.044791,-27.451651,17.5,Newstead
+4000571,1,Ticketless Meter,Doggett St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,7,0,,153.043681,-27.452475,,Newstead
+4000572,1,Ticketless Meter,Doggett St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.043528,-27.4526,17.5,Newstead
+4000573,2,Ticketless Meter,Kyabra St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,19,0,,153.0428455,-27.4519645,17.5,Newstead
+4000574,1,Ticketless Meter,Kyabra St,Newstead,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,6,0,,153.042827,-27.451449,,Newstead
+4000575,1,Ticketless Meter,Stratton St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.04186,-27.451535,17.5,Newstead
+4000576,1,Ticketless Meter,Stratton St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.041986,-27.451543,,Newstead
+4000577,1,Ticketless Meter,Commercial Rd,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.042126,-27.453203,17.5,Newstead
+4000578,1,Ticketless Meter,Commercial Rd,Newstead,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.042313,-27.453119,,Newstead
+4000579,2,Ticketless Meter,Leopold St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.041323,-27.453702,17.5,Newstead
+4000580,1,Ticketless Meter,Proe St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,11,0,,153.04163,-27.453609,,Newstead
+4000581,2,Ticketless Meter,Proe St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.0420565,-27.453992,17.5,Newstead
+4000582,1,Ticketless Meter,Leopold St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.041403,-27.453883,,Newstead
+4000583,2,Ticketless Meter,Chester St | Ella St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,12,0,,153.04072200000002,-27.454387,,Newstead
+4000584,1,Ticketless Meter,Chester St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.041586,-27.454759,17.5,Newstead
+4000585,1,Ticketless Meter,Morse St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.04116,-27.454814,,Newstead
+4000587,2,Ticketless Meter,Chester St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.040566,-27.4539955,,Newstead
+4000588,1,App Only,Ross St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,5,0,,153.042356,-27.443913,17.5,Newstead
+4000589,1,App Only,Ross St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.04348,-27.441797,,Newstead
+4000590,1,App Only,Edmund St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.042951,-27.443893,17.5,Newstead
+4000591,1,Ticketless Meter,Durong St,Newstead,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.043681,-27.441776,17.5,Newstead
+4000592,1,App Only,Durong St,Newstead,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.043955,-27.441737,,Newstead
+4000593,1,Hybrid,Cunningham St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.044044,-27.448822,,Newstead
+4000596,1,Ticketless Meter,Stephens Rd,South Brisbane,4,Loading Zone,No,Weekdays,9AM-2PM,,,Zone 1,15,4.25,,9,0,,153.02298,-27.483726,,South Brisbane
+4000597,2,App Only,Hope St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,24,0,,153.015441,-27.4716965,17.5,South Brisbane
+4000598,2,Ticketless Meter,Edmondstone St,South Brisbane,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.013302,-27.476137,,South Brisbane
+4000600,1,App Only,Montague Rd,South Brisbane,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.015723,-27.470836,,South Brisbane
+4000601,2,App Only | Ticketless Meter,Hope St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.01579099999998,-27.4719765,17.5,South Brisbane
+4000602,1,Ticketless Meter,Merivale St,South Brisbane,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,20,0,,153.014888,-27.472275,,South Brisbane
+4000604,1,App Only,Cordelia St,South Brisbane,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,41,0,,153.013342,-27.472354,,South Brisbane
+4000605,2,Ticketless Meter,Montague Rd,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,21,0,,153.0123405,-27.473100000000002,17.5,South Brisbane
+4000606,3,App Only,Montague Rd,South Brisbane,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,29,0,,153.01058433333333,-27.474688666666665,,South Brisbane
+4000607,1,Ticketless Meter,Nott St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,19,0,,153.009081,-27.474812,17.5,South Brisbane
+4000608,1,Ticketless Meter,Hockings St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,8,0,,153.008786,-27.475112,,South Brisbane
+4000609,1,Ticketless Meter,Cameron St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.010301,-27.475561,17.5,South Brisbane
+4000610,1,Ticketless Meter,Mollison St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,8,0,,153.010066,-27.47641,,South Brisbane
+4000611,2,App Only,Brereton St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,30,0,,153.0116165,-27.474419,17.5,South Brisbane
+4000612,1,Ticketless Meter,Vulture St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,10,0,,153.013433,-27.481253,,West End
+4000613,1,Ticketless Meter,Norfolk Rd,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.010929,-27.475052,17.5,South Brisbane
+4000615,2,Ticketless Meter,Brereton St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,20,0,,153.0125575,-27.4752635,,South Brisbane
+4000616,2,Ticketless Meter,Boundary St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,31,0,,153.0134655,-27.473506,17.5,South Brisbane
+4000617,2,Ticketless Meter,Cordelia St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.013982,-27.473285500000003,17.5,South Brisbane
+4000618,4,App Only | Ticketless Meter,Manning St,South Brisbane,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,26,0,,153.014229,-27.47557275,,South Brisbane
+4000619,1,App Only,Cordelia St,South Brisbane,3,No Stopping,No,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,11,0,,153.015072,-27.475,,South Brisbane
+4000620,1,Ticketless Meter,Boundary St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.01323,-27.475096,17.5,South Brisbane
+4000621,1,Ticketless Meter,Merivale St,South Brisbane,4,,No,Weekdays,9AM-6PM,,,Zone 1,15,4.25,,8,0,,153.015451,-27.473669,,South Brisbane
+4000622,1,App Only,Hope St,South Brisbane,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,17,0,,153.017025,-27.473747,,South Brisbane
+4000623,1,Ticketless Meter,Boundary St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.013008,-27.476319,17.5,South Brisbane
+4000625,2,App Only,Russell St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,8,0,,153.01722949999998,-27.4769875,,South Brisbane
+4000626,1,Ticketless Meter,Cordelia St,South Brisbane,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,5,0,,153.016474,-27.477062,,South Brisbane
+4000627,1,Ticketless Meter,Russell St,South Brisbane,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,13,0,,153.016195,-27.477646,,South Brisbane
+4000628,1,Ticketless Meter,Russell St,South Brisbane,4,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,4.25,2.3,8,0,,153.01599,-27.477569,,South Brisbane
+4000629,2,App Only | Ticketless Meter,Manning St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,16,0,,153.0152475,-27.477043000000002,,South Brisbane
+4000630,1,Ticketless Meter,Manning St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.015476,-27.477274,17.5,South Brisbane
+4000631,2,Ticketless Meter,Edmondstone St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,18,0,,153.0154995,-27.479221000000003,17.5,South Brisbane
+4000632,2,Ticketless Meter,Edmondstone St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.014243,-27.4775075,17.5,South Brisbane
+4000633,2,Ticketless Meter,Russell St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,21,0,,153.015329,-27.4780235,17.5,South Brisbane
+4000634,2,Ticketless Meter,Browning St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,11,0,,153.01448599999998,-27.4799105,,South Brisbane
+4000635,1,Ticketless Meter,Edmondstone St,South Brisbane,4,,No,Weekdays,10AM-5PM,,,Zone 1,15,4.25,,16,0,,153.016229,-27.48028,,South Brisbane
+4000637,1,Ticketless Meter,Browning St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,5,0,,153.015365,-27.481185,17.5,South Brisbane
+4000638,1,Ticketless Meter,Cordelia St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.019522,-27.481515,17.5,South Brisbane
+4000639,1,Ticketless Meter,Merivale St,South Brisbane,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,11,0,,153.020596,-27.480901,,South Brisbane
+4000640,1,Ticketless Meter,Colchester St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,24,0,,153.02131,-27.480202,,South Brisbane
+4000641,2,Ticketless Meter,Tribune St,South Brisbane,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,15,0,,153.0213485,-27.481815,,South Brisbane
+4000642,1,App Only,Tribune St,South Brisbane,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,7,0,,153.022116,-27.481473,,South Brisbane
+4000643,1,Ticketless Meter,Stephens Rd,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,3,0,,153.023063,-27.483233,,South Brisbane
+4000644,3,Ticketless Meter,Clarence St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,28,0,,153.02712599999998,-27.487509,17.5,South Brisbane
+4000645,2,Ticketless Meter,Crown St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.026736,-27.488155,17.5,South Brisbane
+4000646,1,Ticketless Meter,Stephens Rd,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.026362,-27.488937,17.5,South Brisbane
+4000648,1,Ticketless Meter,Graham St,South Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.025496,-27.484359,17.5,South Brisbane
+4000649,1,Ticketless Meter,Graham St,South Brisbane,4,Loading Zone,No,Weekdays,9AM-2PM,,,Zone 1,15,4.25,,10,0,,153.025408,-27.484073,,South Brisbane
+4000650,6,Ticketless Meter,Dock St | Lower River Tce,South Brisbane,4,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,4.25,2.3,68,0,,153.02816166666665,-27.482404000000002,,South Brisbane
+4000651,3,Ticketless Meter,Vulture St,South Brisbane,3,Clearway,Yes,Weekdays,7AM-4PM,,,Zone 1,15,6.35,,26,0,,153.028578,-27.483430666666663,,South Brisbane
+4000652,2,Ticketless Meter,Browning St,South Brisbane,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,16,0,,153.0134445,-27.478273,,South Brisbane
+4000653,1,Ticketless Meter,Russell St,South Brisbane,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,11,0,,153.014293,-27.478493,,South Brisbane
+4000654,1,Ticketless Meter,Russell St,South Brisbane,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.014259,-27.478707,,South Brisbane
+4000655,1,Ticketless Meter,Water St,South Brisbane,3,No Stopping,No,Weekdays,7AM-4PM,,,Zone 1,15,6.35,,9,0,,153.029495,-27.484532,,South Brisbane
+4000656,1,App Only,Cordelia St,South Brisbane,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,10,0,,153.01486,-27.474481,,South Brisbane
+4000657,1,Ticketless Meter,Boundary St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,7,0,,153.013094,-27.475066,,South Brisbane
+4000659,1,Ticketless Meter,Besant St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.014518,-27.480763,17.5,West End
+4000660,2,Ticketless Meter,Buchanan St | Donkin St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,39,0,,153.00716649999998,-27.4758195,17.5,West End
+4000661,2,App Only,Montague Rd,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,19,0,,153.008734,-27.476302,,West End
+4000662,2,App Only,Buchanan St | Musgrave St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,15,0,,153.0062035,-27.4767565,,West End
+4000663,1,Ticketless Meter,Buchanan St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.005614,-27.476875,17.5,West End
+4000664,2,App Only | Ticketless Meter,Jane St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,22,0,,153.005741,-27.477766,17.5,West End
+4000665,2,App Only | Ticketless Meter,Anthony St | Montague Rd,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,18,0,,153.0074115,-27.4771425,,West End
+4000666,2,App Only | Ticketless Meter,Anthony St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.0071265,-27.4766925,17.5,West End
+4000667,1,App Only,Musgrave St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.006559,-27.477156,17.5,West End
+4000668,2,Ticketless Meter,Bank St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,31,0,,153.009274,-27.477398,17.5,West End
+4000669,3,Ticketless Meter,Bank St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,23,0,,153.009298,-27.477575333333334,,West End
+4000670,1,Ticketless Meter,Jane St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.007261,-27.478398,17.5,West End
+4000671,2,Ticketless Meter,Jane St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,20,0,,153.010104,-27.4788725,17.5,West End
+4000672,2,Ticketless Meter,Boundary St,West End,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.0125585,-27.4782965,,West End
+4000673,1,Ticketless Meter,Boundary St,West End,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,2,0,,153.012279,-27.480211,,West End
+4000675,2,Ticketless Meter,Russell St,West End,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,15,0,,153.0133545,-27.479098,,West End
+4000676,4,Ticketless Meter,Oconnell St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,28,0,,153.013409,-27.4801295,17.5,West End
+4000677,1,Ticketless Meter,Besant St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,7,0,,153.014213,-27.481089,,West End
+4000678,1,Ticketless Meter,Thomas St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,9,0,,153.01128,-27.481405,,West End
+4000680,1,App Only,Vulture St,West End,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,6,0,,153.014528,-27.481416,,West End
+4000681,1,Ticketless Meter,Vulture St,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.013123,-27.481065,,West End
+4000682,1,Ticketless Meter,Vulture St,West End,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,6,0,,153.012589,-27.481115,,West End
+4000683,1,Ticketless Meter,Vulture St,West End,1,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.012463,-27.480957,,West End
+4000684,2,Ticketless Meter,Sussex St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,27,0,,153.012925,-27.482233,17.5,West End
+4000685,2,Ticketless Meter,Sussex St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,18,0,,153.012756,-27.482322,,West End
+4000686,1,Ticketless Meter,Boundary St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,9,0,,153.011847,-27.481678,,West End
+4000687,1,Ticketless Meter,Vulture St,West End,1,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,3,0,,153.011633,-27.480979,,West End
+4000688,1,Ticketless Meter,Thomas St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,7,0,,153.011056,-27.481935,,West End
+4000689,1,Ticketless Meter,Thomas St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.011539,-27.479408,17.5,West End
+4000690,1,Ticketless Meter,Vulture St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,3,0,,153.009732,-27.480562,,West End
+4000691,1,Ticketless Meter,Ambleside St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,7,0,,153.009958,-27.479542,17.5,West End
+4000692,1,Ticketless Meter,Thomas St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,8,0,,153.011417,-27.480038,,West End
+4000693,1,Ticketless Meter,Hardgrave Rd,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,8,0,,153.00736,-27.4799,17.5,West End
+4000694,2,Ticketless Meter,Jane St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,15,0,,153.009295,-27.478758,,West End
+4000695,1,Ticketless Meter,Hardgrave Rd,West End,2,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,5,0,,153.006904,-27.482402,,West End
+4000696,1,App Only,Vulture St,West End,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,8,0,,153.006243,-27.480397,,West End
+4000697,1,Ticketless Meter,Scott St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,8,0,,153.006673,-27.479511,16,West End
+4000698,1,Ticketless Meter,Vulture St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,11,0,,153.006199,-27.480248,16,West End
+4000699,1,Ticketless Meter,Montague Rd,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.005755,-27.479271,17.5,West End
+4000700,2,Ticketless Meter,Montague Rd,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.0053245,-27.4799525,,West End
+4000701,1,App Only,Beesley St,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.003819,-27.481372,,West End
+4000702,1,Ticketless Meter,Montague Rd,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,2,0,,153.004128,-27.482068,,West End
+4000703,1,App Only,Victoria St,West End,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,20,0,,153.001403,-27.481626,17.5,West End
+4000704,3,Ticketless Meter,Hardgrave Rd,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,19,0,,153.007201,-27.48132366666667,,West End
+4000705,2,Ticketless Meter,Vulture St,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.0109895,-27.480812999999998,,West End
+4000707,1,Ticketless Meter,Boundary St,West End,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,9,0,,153.012105,-27.48033,,West End
+4000708,1,Ticketless Meter,Franklin St,Highgate Hill,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,16,0,,153.014054,-27.481725,16,Highgate Hill
+4000709,2,Ticketless Meter,Sexton St,Highgate Hill,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,32,0,,153.01752199999999,-27.4825395,,Highgate Hill
+4000710,6,Ticketless Meter,Brisbane St,Annerley,2,,No,Weekdays,7AM-7PM,,,Zone 3,15,3.2,,101,0,,153.03239483333334,-27.501367833333333,,Annerley
+4000711,2,Ticketless Meter,Cornwall St,Annerley,2,,No,Weekdays,7AM-7PM,,,Zone 3,15,3.2,,25,0,,153.03244949999998,-27.500702,,Annerley
+4000712,1,Ticketless Meter,Sexton St,Highgate Hill,3,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,12,0,,153.019,-27.482716,,Highgate Hill
+4000721,1,Ticketless Meter,Merton Rd,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,21,0,,153.03094,-27.485582,,Woolloongabba
+4000722,1,Ticketless Meter,Trinity Ln,Woolloongabba,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,14,0,,153.031073,-27.487063,,Woolloongabba
+4000723,2,Ticketless Meter,Merton Rd,Woolloongabba,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,23,0,,153.030535,-27.4869045,,Woolloongabba
+4000724,2,Ticketless Meter,Catherine St,Woolloongabba,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,20,0,,153.029558,-27.4879745,,Woolloongabba
+4000725,2,Ticketless Meter,Heaslop St,Woolloongabba,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,16,0,,153.02972,-27.488822499999998,,Woolloongabba
+4000726,1,Ticketless Meter,Henry St,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.034625,-27.491145,,Woolloongabba
+4000727,5,Ticketless Meter,Hawthorne St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,78,0,,153.032289,-27.488043600000005,17.5,Woolloongabba
+4000728,2,Ticketless Meter,Reid St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,24,0,,153.03313350000002,-27.48705,17.5,Woolloongabba
+4000729,3,Ticketless Meter,Hawthorne St | Hubert St,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,38,0,,153.034084,-27.48750366666667,,Woolloongabba
+4000730,2,Ticketless Meter,Gibbon St,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,34,0,,153.03504750000002,-27.4873005,,Woolloongabba
+4000731,2,Ticketless Meter,Gibbon St | Stanley St,Woolloongabba,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,6,0,,153.0351655,-27.486501500000003,,Woolloongabba
+4000732,2,Ticketless Meter,Logan Rd,Woolloongabba,2,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,43,0,,153.0366965,-27.487161,,Woolloongabba
+4000733,1,Ticketless Meter,Ipswich Rd,Woolloongabba,2,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,14,0,,153.03609,-27.487403,,Woolloongabba
+4000734,1,Ticketless Meter,Wilton St,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,15,0,,153.035102,-27.489488,,Woolloongabba
+4000735,3,Ticketless Meter,Henry St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,40,0,,153.03389566666667,-27.490329333333335,17.5,Woolloongabba
+4000736,2,Ticketless Meter,Jurgens St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,14,0,,153.0367155,-27.4888495,17.5,Woolloongabba
+4000737,1,Ticketless Meter,Walker St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,11,0,,153.037542,-27.489479,17.5,Woolloongabba
+4000738,2,Ticketless Meter,Logan Rd,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,26,0,,153.03839499999998,-27.4893585,17.5,Woolloongabba
+4000739,1,Ticketless Meter,Nile St,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.038264,-27.488452,,Woolloongabba
+4000740,1,Ticketless Meter,Nile St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,10,0,,153.038689,-27.488374,17.5,Woolloongabba
+4000741,2,Ticketless Meter,Trafalgar St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.03844350000003,-27.487747,17.5,Woolloongabba
+4000742,2,Ticketless Meter,Trafalgar St,Woolloongabba,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,12,0,,153.0383675,-27.487584,,Woolloongabba
+4000743,2,App Only,Lucinda & Holden Sts | Mountjoy St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,25,0,,153.041738,-27.490958,17.5,Woolloongabba
+4000744,1,App Only,Logan Rd,Woolloongabba,3,No Stopping,No,Weekdays,9AM-7PM,,,Zone 1,15,6.35,,13,0,,153.039999,-27.490831,,Woolloongabba
+4000745,1,Ticketless Meter,Lotus St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,5,0,,153.040058,-27.490286,17.5,Woolloongabba
+4000746,1,App Only,Logan Rd,Woolloongabba,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,4,0,,153.040362,-27.490906,,Woolloongabba
+4000748,1,Ticketless Meter,Morrissey St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,5,0,,153.035526,-27.494643,16,Woolloongabba
+4000749,2,App Only | Ticketless Meter,Harrogate St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,49,0,,153.03600749999998,-27.4959515,16,Woolloongabba
+4000750,3,Ticketless Meter,Carl St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,44,0,,153.037718,-27.500091666666666,16,Woolloongabba
+4000751,2,Ticketless Meter,Carl St,Woolloongabba,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,29,0,,153.03804,-27.498390999999998,,Woolloongabba
+4000752,2,Ticketless Meter,Regent St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,71,0,,153.0388635,-27.500652,16,Woolloongabba
+4000753,2,Ticketless Meter,Tottenham St,Woolloongabba,3,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,24,0,,153.0363835,-27.5002005,,Woolloongabba
+4000754,1,Ticketless Meter,Wolseley St,Woolloongabba,4,,No,Weekdays,8AM-5PM,,,Zone 2,15,3.2,,14,0,,153.036811,-27.498911,,Woolloongabba
+4000755,2,Ticketless Meter,Cornwall St,Woolloongabba,1,,No,Weekdays,7AM-7PM,,,Zone 3,15,3.2,,17,0,,153.0324195,-27.5005595,,Woolloongabba
+4000758,1,Ticketless Meter,Overend St,East Brisbane,4,No Stopping,No,Weekdays,7AM-4PM,,,Zone 1,15,4.25,,8,0,,153.040381,-27.488277,,East Brisbane
+4000759,3,Ticketless Meter,Hampton St,East Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,48,0,,153.04065633333332,-27.48922433333333,17.5,East Brisbane
+4000761,2,Ticketless Meter,Lisburn St,East Brisbane,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,42,0,,153.041634,-27.489230499999998,16,East Brisbane
+4000765,1,Ticketless Meter,Wolseley St,Woolloongabba,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,16,0,,153.036689,-27.498593,16,Woolloongabba
+4000766,1,Ticketless Meter,Wolseley St,Woolloongabba,3,,No,Weekdays,8AM-5PM,,,Zone 2,15,4.7,,17,0,,153.036616,-27.500064,,Woolloongabba
+4000801,2,App Only | Ticketless Meter,River Tce,Kangaroo Point,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,49,0,,153.03502650000001,-27.477001,,Kangaroo Point
+4000802,1,Ticketless Meter,Pixley St,Kangaroo Point,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,7,0,,153.034781,-27.471848,,Kangaroo Point
+4000803,2,Ticketless Meter,Darragh St | Goodwin St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,29,0,,153.03695900000002,-27.4702755,,Kangaroo Point
+4000804,2,Ticketless Meter,Rotherham St,Kangaroo Point,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,13,0,,153.036908,-27.4691785,,Kangaroo Point
+4000805,2,Ticketless Meter,Main St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,15,0,,153.035344,-27.469473,,Kangaroo Point
+4000806,1,Ticketless Meter,Main St,Kangaroo Point,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,4,0,,153.035513,-27.469712,17.5,Kangaroo Point
+4000807,1,Ticketless Meter,Deakin St,Kangaroo Point,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.036113,-27.469697,17.5,Kangaroo Point
+4000808,1,Ticketless Meter,Hamilton St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,15,0,,153.034431,-27.469607,,Kangaroo Point
+4000809,2,App Only | Ticketless Meter,Bright St | Macdonald St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,27,0,,153.034489,-27.4685315,,Kangaroo Point
+4000810,2,Ticketless Meter,Main St,Kangaroo Point,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,7,0,,153.03547500000002,-27.468579,,Kangaroo Point
+4000811,3,Ticketless Meter,Main St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,27,0,,153.03539766666665,-27.467359,,Kangaroo Point
+4000812,1,Ticketless Meter,Main St,Kangaroo Point,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.035295,-27.467387,17.5,Kangaroo Point
+4000813,2,Ticketless Meter,Mackenzie St | Wicklow St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,17,0,,153.034876,-27.4668565,,Kangaroo Point
+4000814,2,Ticketless Meter,Annie St | Wicklow St,Kangaroo Point,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,13,0,,153.03476849999998,-27.466823,17.5,Kangaroo Point
+4000815,1,Ticketless Meter,Annie St,Kangaroo Point,4,Authorized Vehicles Only,No,Weekdays,8AM-5:30PM,,,Zone 1,15,4.25,,16,0,,153.034361,-27.466415,,Kangaroo Point
+4000816,2,Ticketless Meter,Holman St | Main St,Kangaroo Point,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,16,0,,153.035188,-27.465901000000002,17.5,Kangaroo Point
+4000817,2,Ticketless Meter,Holman St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,35,0,,153.0354475,-27.46576,,Kangaroo Point
+4000818,1,Ticketless Meter,Bright St,Kangaroo Point,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.035052,-27.468865,17.5,Kangaroo Point
+4000819,1,Ticketless Meter,Wharf St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,9,0,,153.036719,-27.46803,,Kangaroo Point
+4000820,1,App Only,Wharf St,Kangaroo Point,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,42,0,,153.035932,-27.468172,,Kangaroo Point
+4000821,2,Ticketless Meter,Baildon St | Deakin St,Kangaroo Point,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,14,0,,153.036138,-27.468735000000002,,Kangaroo Point
+4000822,1,Ticketless Meter,Baildon St,Kangaroo Point,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,4,0,,153.036497,-27.468621,,Kangaroo Point
+4000823,2,Ticketless Meter,Wharf St,Kangaroo Point,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,9,0,,153.03597000000002,-27.4679875,,Kangaroo Point
+4000826,1,Ticketless Meter,Heaslop St,Woolloongabba,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,9,0,,153.028756,-27.488703,,Woolloongabba
+4000827,1,Ticketless Meter,Anthony St,West End,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,4,0,,153.006669,-27.476095,,West End
+4000828,1,App Only,Jane St,West End,4,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,9,0,,153.00595,-27.478035,,West End
+4000829,1,Ticketless Meter,Birley St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,4,0,,153.021659,-27.464861,,Spring Hill
+4000830,1,Ticketless Meter,Masters St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,11,0,,153.04433,-27.45334,,Newstead
+4000831,1,Ticketless Meter,Mary St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,5,0,,153.026529,-27.472748,,Brisbane City
+4000832,1,Ticketless Meter,Margaret St,Brisbane City,3,Bus Zone,No,Everyday,"7AM-3PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,9,0,,153.028781,-27.472325,,Brisbane City
+4000833,1,Ticketless Meter,Skyring Tce,Newstead,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,10,0,,153.046671,-27.450565,,Newstead
+4000836,3,Ticketless Meter,Logan Rd,Woolloongabba,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,43,0,,153.03788166666666,-27.488589,,Woolloongabba
+4000837,1,Ticketless Meter,Gloucester St,South Brisbane,4,,No,Weekdays,8AM-5PM,,,Zone 1,15,4.25,,6,0,,153.027417,-27.489035,,South Brisbane
+4000838,1,Ticketless Meter,Crown St,South Brisbane,2,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,5,0,,153.027952,-27.488292,,South Brisbane
+4000840,1,Ticketless Meter,Alexandria St,Bowen Hills,2,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,17,0,,153.034621,-27.452023,,Bowen Hills
+4000841,1,Ticketless Meter,Proe St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,6,0,,153.042464,-27.454343,,Newstead
+4000842,1,Ticketless Meter,Doggett St,Teneriffe,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,9,0,,153.042721,-27.454534,,Teneriffe
+4000844,1,Ticketless Meter,Alfred St,Fortitude Valley,1,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,7,0,,153.031766,-27.457104,,Fortitude Valley
+4000845,3,Ticketless Meter,Longland St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,27,0,,153.04426766666666,-27.451211666666666,,Newstead
+4000846,2,Ticketless Meter,Church St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,12,0,,153.0381395,-27.454587500000002,,Fortitude Valley
+4000847,2,App Only | Ticketless Meter,Hope St,South Brisbane,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,20,0,,153.01622600000002,-27.4727385,,South Brisbane
+4000849,2,Ticketless Meter,Constance St | Mclachlan St,Fortitude Valley,3,No Stopping,No,Everyday,"9AM-4PM, 6PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,24,0,,153.03722800000003,-27.455903499999998,,Fortitude Valley
+4000850,1,Ticketless Meter,Waterloo St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,12,0,,153.04536,-27.448114,,Newstead
+4000851,1,Ticketless Meter,Agnes St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,10,0,,153.030413,-27.458336,,Fortitude Valley
+4000852,1,Ticketless Meter,Arthur St,Fortitude Valley,3,,No,Weekdays,8AM-5PM,,,Zone 1,15,6.35,,6,0,,153.038738,-27.46004,,Fortitude Valley
+4000853,1,App Only,Peel St,South Brisbane,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,2,0,,153.013674,-27.474131,,South Brisbane
+4000854,1,App Only,Merivale St,South Brisbane,3,Clearway,Yes,Weekdays,9AM-4PM,,,Zone 1,15,6.35,,2,0,,153.018457,-27.478005,,South Brisbane
+4000855,1,App Only,Rogers St,Spring Hill,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,16,0,,153.025823,-27.456932,17.5,Spring Hill
+4000856,1,Ticketless Meter,Gregory Tce,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,6,0,,153.030769,-27.451805,17.5,Bowen Hills
+4000857,1,App Only,Anderson St,Fortitude Valley,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,22,0,,153.030554,-27.452153,17.5,Fortitude Valley
+4000858,1,App Only,Quay St,Brisbane City,3,,No,Weekdays,7AM-7PM,,,Zone 1,0,6.35,,16,0,,153.0133,-27.467201,,Brisbane City
+4000859,1,App Only,Quay St,Brisbane City,3,,No,Weekdays,8AM-5PM,,,Zone 1,0,6.35,,27,0,,153.01153,-27.46746,,Brisbane City
+4000860,3,App Only,Ann St,Brisbane City,3,Clearway / Loading Zone | Clearway / No Stopping,No | Yes,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,38,0,,153.02445466666666,-27.467519,,Brisbane City
+4000861,1,App Only,Turbot St,Brisbane City,3,Clearway / Loading Zone,Yes,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,10,0,,153.023383,-27.467157,,Brisbane City
+4000864,1,App Only,George St,Brisbane City,3,Clearway / Loading Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,6,0,,153.02189,-27.46917,,Brisbane City
+4000865,1,App Only,Margaret St,Brisbane City,3,Bus Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,18,0,,153.02679,-27.47371,,Brisbane City
+4000866,1,App Only,Margaret St,Brisbane City,12,Motorcycle Only,No,Weekdays,7AM-7PM,,,Zone 1,0,2.2,,0,63,2.2,153.02858,-27.47248,11.5,Brisbane City
+4000867,1,App Only,Felix St,Brisbane City,3,Loading Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,4,0,,153.03003,-27.47044,,Brisbane City
+4000868,1,App Only,Queen St,Brisbane City,3,Loading Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,5,0,,153.02886,-27.46689,,Brisbane City
+4000869,1,App Only,Queen St,Brisbane City,12,Motorcycle Only,No,Weekdays,7AM-7PM,,,Zone 1,0,2.2,,0,64,2.2,153.02946,-27.46642,11.5,Brisbane City
+4000870,1,App Only,Queen St,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,10,0,,153.03086,-27.46519,,Brisbane City
+4000871,1,App Only,Wharf St,Brisbane City,3,Clearway,No,Everyday,"9AM-4PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,8,0,,153.02856,-27.46384,,Brisbane City
+4000872,1,App Only,Wharf St,Brisbane City,3,Loading Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,17,0,,153.02982,-27.46526,,Brisbane City
+4000873,1,App Only,Market St,Brisbane City,3,Loading Zone,No,6 Days,7PM-10PM,7AM-7PM,,Zone 1,0,,3.45,5,0,,153.02968,-27.46941,,Brisbane City
+4000874,1,App Only,Upper Roma St,Brisbane City,3,,No,Weekdays,7AM-7PM,,,Zone 1,0,6.35,,19,0,,153.01286,-27.46658,,Brisbane City
+4000875,1,App Only,Diddams Lane,Brisbane City,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,5,0,,153.03187,-27.46239,,Brisbane City
+4000876,1,App Only,Charlotte St,Brisbane City,3,Loading Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,6,0,,153.02633,-27.47153,,Brisbane City
+4000877,1,App Only,Charlotte St,Brisbane City,12,Motorcycle Only,No,Weekdays,7AM-7PM,,,Zone 1,0,2.2,,0,30,2.2,153.02781,-27.47029,11.5,Brisbane City
+4000878,1,App Only,Charlotte St,Brisbane City,3,Loading Zone / Bus Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,10,0,,153.02978,-27.46885,,Brisbane City
+4000879,1,Ticketless Meter,Mclachlan St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,6,0,,153.038233,-27.456643,,Fortitude Valley
+4000880,1,App Only,College Close Car Park,Roma St Parkland,12,,No,Everyday,7AM-7PM,7AM-7PM,7AM-7PM,Zone 1,0,4.25,2.3,88,0,,153.01593,-27.46157,Weekdays 17.50 / Weekends 13.50,Roma St Parkland
+4000881,1,App Only,Prospect St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,5,0,,153.037038,-27.452521,,Fortitude Valley
+4000882,1,App Only,Wickham St,Fortitude Valley,3,Clearway,Yes,Everyday,9AM-4PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,9,0,,153.03833,-27.45281,,Fortitude Valley
+4000883,1,App Only,Ranwell Lane,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,8,0,,153.03228,-27.45782,,Fortitude Valley
+4000884,1,App Only,East St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,6,0,,153.036276,-27.454275,,Fortitude Valley
+4000885,1,App Only,Bridge St,Fortitude Valley,3,,No,Everyday,7AM-10PM,7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,19,0,,153.03649,-27.455174,,Fortitude Valley
+4000886,1,App Only,Mclachlan St,Fortitude Valley,3,Loading Zone,No,Everyday,7PM-10PM,12PM-7PM,7AM-7PM,Zone 1,15,,3.45,10,0,,153.0368,-27.45791,,Fortitude Valley
+4000888,1,App Only,Creek St,Brisbane City,3,No Stopping,No,Everyday,"7AM-3PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,2,0,,153.02796,-27.46642,,Brisbane City
+4000890,1,App Only,Ann St,Brisbane City,3,Clearway / Loading Zone,Yes,Weekdays,7PM-10PM,,,Zone 1,0,,,7,0,,153.02862,-27.46443,,Brisbane City
+4000891,1,App Only,Ann St,Brisbane City,3,Clearway,Yes,Everyday,"11AM-2PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,17,0,,153.028082,-27.464645,,Brisbane City
+4000893,1,App Only,Costin St,Bowen Hills,12,,No,Weekdays,7AM-7PM,,,Zone 1,15,4.25,,5,0,,153.03126,-27.45182,17.5,Bowen Hills
+4000894,1,App Only,Creek St,Brisbane City,3,Bus Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,6,0,,153.02835,-27.46683,,Brisbane City
+4000895,1,App Only,Water St,Fortitude Valley,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,8,0,,153.03181,-27.45354,,Fortitude Valley
+4000897,1,App Only,Berry St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,13,0,,153.023907,-27.465042,,Spring Hill
+4000898,1,App Only,Victoria St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,4,0,,153.026444,-27.45882,,Spring Hill
+4000899,1,App Only,Rosa St,Spring Hill,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,12,0,,153.02551,-27.460599,,Spring Hill
+4000900,1,App Only,Queen St,Brisbane City,3,No Stopping,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,4,0,,153.03011,-27.4658,,Brisbane City
+4000901,1,App Only,Elizabeth St,Brisbane City,3,Bus Zone,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.25,8,0,,153.02558,-27.47063,,Brisbane City
+4000902,1,App Only,Elizabeth St,Brisbane City,3,No Stopping,No,Everyday,"10AM-3PM, 7PM-10PM",7AM-7PM,7AM-7PM,Zone 1,0,6.35,3.45,6,0,,153.02866,-27.46828,,Brisbane City
+4000903,1,App Only,Ann St,Brisbane City,3,Clearway,Yes,Weekdays,"11AM-2PM, 7PM-10PM",,,Zone 1,0,6.35,,2,0,,153.02748,-27.46531,,Brisbane City
+4000904,1,App Only,Waterloo St,Newstead,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,19,0,,153.04373,-27.44844,,Newstead
+4000905,1,App Only,Providence Lane,Fortitude Valley,3,Bus Zone,No,Everyday,"7AM-4PM, 6PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,8,0,,153.0348,-27.46069,,Fortitude Valley
+4000906,1,App Only,Providence Lane,Fortitude Valley,3,Loading Zone,No,Everyday,"9AM-3PM, 6PM-10PM",7AM-7PM,7AM-7PM,Zone 1,15,6.35,3.45,8,0,,153.03459,-27.46065,,Fortitude Valley
+4000908,1,App Only,William St,Brisbane City,12,Motorcycle Only,No,Weekdays,7AM-7PM,,,Zone 1,0,2.2,,0,39,2.2,153.02376,-27.47251,11.5,Brisbane City
+4000909,1,App Only,Melbourne St,South Brisbane,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,2,0,,153.0141,-27.47623,,South Brisbane
+4000910,1,App Only,Victoria Park Rd,Kelvin Grove,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,4,0,,153.016183,-27.452605,,Kelvin Grove
+4000911,1,App Only,Blamey St,Kelvin Grove,3,,No,Weekdays,7AM-7PM,,,Zone 2,15,4.7,,4,0,,153.014662,-27.453443,,Kelvin Grove
+4000912,1,App Only,Constance St,Bowen Hills,3,,No,Weekdays,7AM-7PM,,,Zone 1,15,6.35,,14,0,,153.033098,-27.453392,,Bowen Hills
+4000913,1,App Only,Eagle Tce,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,17,0,,152.99855,-27.4739,16,Auchenflower
+4000914,1,App Only,Eagle Tce,Auchenflower,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,9,0,,152.997129,-27.475211,16,Auchenflower
+4000915,1,App Only,Heussler Tce,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,15,0,,153.004756,-27.465282,16,Milton
+4000916,1,App Only,Crombie St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,11,0,,153.0073,-27.46948,,Milton
+4000917,1,App Only,Gordon St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 2,15,4.7,,13,0,,153.00399,-27.47061,,Milton
+4000920,1,App Only,Fort Lane,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 2,15,4.7,,3,0,,153.00479,-27.471943,,Milton
+4000921,1,App Only,Marie St,Milton,12,,No,Weekdays,7AM-7PM,,,Zone 2,15,3.2,,13,0,,153.004105,-27.472524,16,Milton
+4000922,1,App Only,Cribb St,Milton,3,,No,Weekdays,8AM-4PM,,,Zone 1,15,6.35,,6,0,,153.008093,-27.469963,,Milton
+4000933,1,App Only,Herschel St,Brisbane City,3,No Stopping,No,Everyday,7PM-10PM,7AM-7PM,7AM-7PM,Zone 1,0,,3.45,9,0,,153.018916,-27.467903,,Brisbane City

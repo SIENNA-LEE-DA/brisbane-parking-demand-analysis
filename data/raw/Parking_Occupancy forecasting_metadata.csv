@@ -1,0 +1,5 @@
+Attribute,Attribute Description
+MOBILE_ZONE,Mobile payment zone number - 7 digits - attributes are described in 'Parking Meter Locations' dataset - one mobile zone may include one or multiple meter zones.
+DATE,Date in dd/mm/yyyy of predicted behaviour
+HOUR,"Start hour numeric in 24 hr time - eg 7 depicts the time period 7-8am, 16 depicts the time period 4pm-5 pm Brisbane time"
+OCCUPANCY_PRED,"Numeric field range 0-5, (1 is low occupancy, high chance of a space available. 5 is high occupancy, low chance of a space being available, 0 = not available - outside meter operating times or during Clearway hours - check signs)"
